@@ -1,0 +1,4 @@
+* linguist-vendored
+*.jpg linguist-vendored=false
+*.jpeg linguist-vendored=false
+*.png linguist-vendored=false
